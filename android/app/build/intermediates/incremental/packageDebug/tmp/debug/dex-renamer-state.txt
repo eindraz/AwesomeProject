@@ -1,4 +1,4 @@
-#Wed Nov 02 20:25:27 WIB 2022
+#Wed Nov 09 20:38:41 WIB 2022
 base.0=C\:\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
